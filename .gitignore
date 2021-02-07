@@ -1,0 +1,14 @@
+.logs/
+dist/
+node_modules/
+coverage/
+.idea/
+
+.env
+
+# stryker temp files
+.stryker-tmp
+reports/
+
+# npm lock file
+package-lock.json
