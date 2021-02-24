@@ -22,7 +22,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "morgan": "^1.10.0",
-    "rotating-file-stream": "^2.1.4"
+    "rotating-file-stream": "^2.1.5"
   },
   "devDependencies": {
     "@stryker-mutator/core": "^3.3.1",
