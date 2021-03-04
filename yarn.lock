@@ -509,22 +509,22 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@prisma/client@2.17.0":
-  version "2.17.0"
-  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-2.17.0.tgz#e38462796c2e824504763416f5e3a7219d70652d"
-  integrity sha512-tzsBxtx9J1epOGCiBeXur1tEz81UIdWg2G/HpDmflXKcv/MJb+KCWSKSsEW49eXcvVwRgxNyxLoCO6CwvjQKcg==
+"@prisma/client@2.18.0":
+  version "2.18.0"
+  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-2.18.0.tgz#bff0a206f3caf7525583c703146f835dee0b5ad6"
+  integrity sha512-tRu0bdYNKIdWnFIbtgUmZyPgtDLV3AgwO8NYXirlbSn5poygbSaV87UfOBh1NmrvjS9EBP5dQv+bs62sVB84hA==
   dependencies:
-    "@prisma/engines-version" "2.17.0-35.3c463ebd78b1d21d8fdacdd27899e280cf686223"
+    "@prisma/engines-version" "2.18.0-34.da6fafb57b24e0b61ca20960c64e2d41f9e8cff1"
 
-"@prisma/engines-version@2.17.0-35.3c463ebd78b1d21d8fdacdd27899e280cf686223":
-  version "2.17.0-35.3c463ebd78b1d21d8fdacdd27899e280cf686223"
-  resolved "https://registry.yarnpkg.com/@prisma/engines-version/-/engines-version-2.17.0-35.3c463ebd78b1d21d8fdacdd27899e280cf686223.tgz#9ae6ed4467a0febff8afaf216c1bb67225f51b84"
-  integrity sha512-9idv5blqPUlvUPVT48eVi3T0RS/NBklUcjrla3jWyV8AYfB2BdaG/Zci7H5ajyYLnfZZHG9tBpP0LcveQCFH8A==
+"@prisma/engines-version@2.18.0-34.da6fafb57b24e0b61ca20960c64e2d41f9e8cff1":
+  version "2.18.0-34.da6fafb57b24e0b61ca20960c64e2d41f9e8cff1"
+  resolved "https://registry.yarnpkg.com/@prisma/engines-version/-/engines-version-2.18.0-34.da6fafb57b24e0b61ca20960c64e2d41f9e8cff1.tgz#c595c9d85ab2c67b67d0eb7bfbb0a3b05b41fdbe"
+  integrity sha512-+Eljsb1XItfq9B6vRTA1Oe4CQOGAxbsjtPAIORZwaU4Gt9RybnXapFlrQ8Mac89PXeSgcO4RnPSLEYhcd3kSVg==
 
-"@prisma/engines@2.17.0-35.3c463ebd78b1d21d8fdacdd27899e280cf686223":
-  version "2.17.0-35.3c463ebd78b1d21d8fdacdd27899e280cf686223"
-  resolved "https://registry.yarnpkg.com/@prisma/engines/-/engines-2.17.0-35.3c463ebd78b1d21d8fdacdd27899e280cf686223.tgz#08bc3633fd27fb1935805ef16c37802ed713db5b"
-  integrity sha512-FKjVD6NYbGiQhwas3hA2uMpNchz+Mf3tv5qA8Ci9cAkKHGqt3jWjjUAK9juVBqeOcv4OPimQYMrkRX6SvaxBjg==
+"@prisma/engines@2.18.0-34.da6fafb57b24e0b61ca20960c64e2d41f9e8cff1":
+  version "2.18.0-34.da6fafb57b24e0b61ca20960c64e2d41f9e8cff1"
+  resolved "https://registry.yarnpkg.com/@prisma/engines/-/engines-2.18.0-34.da6fafb57b24e0b61ca20960c64e2d41f9e8cff1.tgz#647a7e2735b08fe28425be135120bb54ea408256"
+  integrity sha512-Q5q5mQePRFSSGbd/14Ogq1RNkebbbwskiTbWsvrSq14t9Us0rC9Xsecd4mr4rEAy8Yd6sXEJW4czZ/88DGzz2w==
 
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
@@ -803,13 +803,13 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@typescript-eslint/eslint-plugin@^4.15.2":
-  version "4.15.2"
-  resolved "https://registry.yarnpkg.com/@typescript-eslint/eslint-plugin/-/eslint-plugin-4.15.2.tgz#981b26b4076c62a5a55873fbef3fe98f83360c61"
-  integrity sha512-uiQQeu9tWl3f1+oK0yoAv9lt/KXO24iafxgQTkIYO/kitruILGx3uH+QtIAHqxFV+yIsdnJH+alel9KuE3J15Q==
+"@typescript-eslint/eslint-plugin@^4.16.1":
+  version "4.16.1"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/eslint-plugin/-/eslint-plugin-4.16.1.tgz#2caf6a79dd19c3853b8d39769a27fccb24e4e651"
+  integrity sha512-SK777klBdlkUZpZLC1mPvyOWk9yAFCWmug13eAjVQ4/Q1LATE/NbcQL1xDHkptQkZOLnPmLUA1Y54m8dqYwnoQ==
   dependencies:
-    "@typescript-eslint/experimental-utils" "4.15.2"
-    "@typescript-eslint/scope-manager" "4.15.2"
+    "@typescript-eslint/experimental-utils" "4.16.1"
+    "@typescript-eslint/scope-manager" "4.16.1"
     debug "^4.1.1"
     functional-red-black-tree "^1.0.1"
     lodash "^4.17.15"
@@ -817,15 +817,15 @@
     semver "^7.3.2"
     tsutils "^3.17.1"
 
-"@typescript-eslint/experimental-utils@4.15.2":
-  version "4.15.2"
-  resolved "https://registry.yarnpkg.com/@typescript-eslint/experimental-utils/-/experimental-utils-4.15.2.tgz#5efd12355bd5b535e1831282e6cf465b9a71cf36"
-  integrity sha512-Fxoshw8+R5X3/Vmqwsjc8nRO/7iTysRtDqx6rlfLZ7HbT8TZhPeQqbPjTyk2RheH3L8afumecTQnUc9EeXxohQ==
+"@typescript-eslint/experimental-utils@4.16.1":
+  version "4.16.1"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/experimental-utils/-/experimental-utils-4.16.1.tgz#da7a396dc7d0e01922acf102b76efff17320b328"
+  integrity sha512-0Hm3LSlMYFK17jO4iY3un1Ve9x1zLNn4EM50Lia+0EV99NdbK+cn0er7HC7IvBA23mBg3P+8dUkMXy4leL33UQ==
   dependencies:
     "@types/json-schema" "^7.0.3"
-    "@typescript-eslint/scope-manager" "4.15.2"
-    "@typescript-eslint/types" "4.15.2"
-    "@typescript-eslint/typescript-estree" "4.15.2"
+    "@typescript-eslint/scope-manager" "4.16.1"
+    "@typescript-eslint/types" "4.16.1"
+    "@typescript-eslint/typescript-estree" "4.16.1"
     eslint-scope "^5.0.0"
     eslint-utils "^2.0.0"
 
@@ -2683,10 +2683,10 @@ human-signals@^1.1.1:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-1.1.1.tgz#c5b1cd14f50aeae09ab6c59fe63ba3395fe4dfa3"
   integrity sha512-SEQu7vl8KjNL2eoGBLF3+wAjpsNfA9XMlXAYj/3EdaNfAlxKthD1xjEQfGOUhllCGGJVNY34bRr6lPINhNjyZw==
 
-husky@^5.1.1:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/husky/-/husky-5.1.1.tgz#8678953fd8deb86f387cbf1ad50bb2f7f96e83f2"
-  integrity sha512-80LZ736V0Nr4/st0c2COYaMbEQhHNmAbLMN8J/kLk7/mo0QdUkUGNDjv/7jVkhug377Wh8wfbWyaVXEJ/h2B/Q==
+husky@^5.1.3:
+  version "5.1.3"
+  resolved "https://registry.yarnpkg.com/husky/-/husky-5.1.3.tgz#1a0645a4fe3ffc006c4d0d8bd0bcb4c98787cc9d"
+  integrity sha512-fbNJ+Gz5wx2LIBtMweJNY1D7Uc8p1XERi5KNRMccwfQA+rXlxWNSdUxswo0gT8XqxywTIw7Ywm/F4v/O35RdMg==
 
 iconv-lite@0.4.24, iconv-lite@^0.4.24:
   version "0.4.24"
@@ -4353,12 +4353,12 @@ pretty-format@^26.0.0, pretty-format@^26.6.2:
     ansi-styles "^4.0.0"
     react-is "^17.0.1"
 
-prisma@2.17.0:
-  version "2.17.0"
-  resolved "https://registry.yarnpkg.com/prisma/-/prisma-2.17.0.tgz#686469914ed13d4b0926ee5f17efb7a9ab741e8a"
-  integrity sha512-NypJI7OCXCfDkRKubbVb3nmPeRJ1SjQfg6QAwK06KsreBZl1F96rFz2iB2bl4kIrhLAbIySBjwUJlG87Jsxt7g==
+prisma@2.18.0:
+  version "2.18.0"
+  resolved "https://registry.yarnpkg.com/prisma/-/prisma-2.18.0.tgz#b19a2d4a487b8b62759777be55506567af41f6ae"
+  integrity sha512-03po/kFW3/oGHtnANgZiKYz22KEx6NpdaIP2r4eievmVam9f2+0PdP4x/KSFdMCT6B6VHh+3ILTi2z3bYosCgA==
   dependencies:
-    "@prisma/engines" "2.17.0-35.3c463ebd78b1d21d8fdacdd27899e280cf686223"
+    "@prisma/engines" "2.18.0-34.da6fafb57b24e0b61ca20960c64e2d41f9e8cff1"
 
 progress@^2.0.0, progress@~2.0.0:
   version "2.0.3"
